@@ -2,7 +2,7 @@
  * Copyright (c) 2018 duanxitao All rights reserved.
  */
 
-package com.qit.com.sample;
+package com.qit.sample;
 
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;

@@ -2,7 +2,7 @@
  * Copyright (c) 2018 duanxitao All rights reserved.
  */
 
-package com.qit.com.qit.bean;
+package com.qit.bean;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

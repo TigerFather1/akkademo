@@ -2,13 +2,13 @@
  * Copyright (c) 2018 duanxitao All rights reserved.
  */
 
-package com.qit.com.sample;
+package com.qit.sample;
 
 import akka.actor.ActorRef;
 import akka.actor.Props;
 import akka.actor.UntypedActor;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.qit.com.qit.bean.Message;
+import com.qit.bean.Message;
 
 /**
  * @ProjectName akkademo
